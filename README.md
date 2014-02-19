@@ -5,11 +5,11 @@ Open Source Definition, Its a script file that you can import into your website,
 
 Target: 0.1.0
 -------------
-Access class definitions of Oracle JAVA Docs.
+Read class definitions of Oracle JAVA Docs.
 
 Current Status:
 -------------
-1.) JAVA docs accessed sucessfully.<br>
+1.) Class definitions of StringBuffer from JAVA Doc read sucessfully.<br>
 2.) Popup implemented with the definition of 'StringBuffer'.<br>
 
 In-Process:
