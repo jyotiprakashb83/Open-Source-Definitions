@@ -5,7 +5,7 @@ Open Source Definition, Its a script file that you can import into your website,
 
 Target: 0.1.0
 -------------
-Oracle JAVA Docs, access to class definitions.
+Access class definitions of Oracle JAVA Docs.
 
 Current Status:
 -------------
